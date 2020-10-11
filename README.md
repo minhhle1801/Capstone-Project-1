@@ -1,1 +1,1 @@
-# Predicting student performance - an application of Machine learning
+# Predicting Student Performance: An Application of Machine learning
